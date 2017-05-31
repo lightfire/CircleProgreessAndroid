@@ -8,3 +8,8 @@ dependencies {
   compile 'com.github.lightfire:CircleProgreessAndroid:-SNAPSHOT'
 }
 ```
+**NOTE**:  <= API 17
+
+**Like**
+
+**Usage**
